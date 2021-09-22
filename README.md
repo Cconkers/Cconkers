@@ -71,7 +71,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/Hashnode/support/issues/42) in [Hashnode/support](https://github.com/Hashnode/support)
+1. 💪 Opened PR [#15](https://github.com/GuilletDominguez/donbosco-firmasimply-grupo5/pull/15) in [GuilletDominguez/donbosco-firmasimply-grupo5](https://github.com/GuilletDominguez/donbosco-firmasimply-grupo5)
 2. 🎉 Merged PR [#10](https://github.com/saviomartin/codehouse/pull/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
 3. 🗣 Commented on [#10](https://github.com/saviomartin/codehouse/issues/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
 4. 🗣 Commented on [#10](https://github.com/saviomartin/codehouse/issues/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
