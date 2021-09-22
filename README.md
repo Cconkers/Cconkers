@@ -1,86 +1,44 @@
-# Hello, I am Savio 👋
+# Hello, My name is Rubén!👋🏻👦🏻🤙🏻
 
 ![](https://raw.githubusercontent.com/saviomartin/saviomartin/main/github-banner%20(1).png)
 
-I'm 14-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community. Open to all DMs on [Twitter](https://twitter.com/SavioMartin7)
+My passion for technology follow me since I was child, this together with my inner curiosity made me run into the world of web development at the most appropriate time, made on me great interest in the capacity for creation, flexibility and innovation that the sector possesses. And one of the guilds at the forefront of the technology sector, generating in me a great vocation. 
+<br><br>
+Open to all PMs on [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-191a5913a/)
 
-- 🔭 I’m currently working on my MERN Stack
-- 🌱 I’m currently learning Backend & APIs
-- 👯 I’m looking to collaborate on Full stack web development
-- 🤔 I’m looking for help with Backend & APIs
+- 🛠 I’m currently working on my personal projects with the best person I could, my teacher [Aberkanimed](https://github.com/aberkanimed)
+- 🌱 I’m currently learning Full Stack engineering
+- 🤜🏻🤛🏻 I’m looking to collaborate and keep learning on Full stack web development
 - 💬 Ask me about Frontend Technologies
-- 📫 How to reach me: [saviomartin2007@gmail.com](mailto:saviomartin2007@gmail.com) & [Twitter @SavioMartin7](https://twitter.com/SavioMartin7)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Big fan of 🌈
+- 📫 How to reach me: [rubenpv011992@gmail.com](mailto:rubenpv011992@gmail.com) & [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-191a5913a/)
 
 ## Find me around the web 🌍
 
-- [Instagram](https://www.instagram.com/teen_developer/)
-- [LinkedIn](https://www.linkedin.com/in/saviomartin)
-- [Twitter](https://twitter.com/saviomartin7)
-- [Codepen](https://codepen.io/saviomartin/)
-- [Figma](https://www.figma.com/@saviomartin)
-- [Hashnode](https://hashnode.com/@saviomartin)
-- [Dev.to](https://dev.to/saviomartin)
+- [Instagram](https://www.instagram.com/rubenspv/)
+- [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-191a5913a/)
+- [Twitter](https://twitter.com/Cconker_Trader)
+- [Codepen](https://codepen.io/rubenspv)
+- [Figma](https://www.figma.com/@rubenspv)
 
 ## My skills 🚀
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
-
-## My Recent Blog posts ✍️
-
-<!-- BLOG-POST-LIST:START -->
-- [20 Killer JavaScript One Liners ☝️](https://saviomartin.com/20-killer-javascript-one-liners)
-- [Introducing Styler - The Next Generation CSS Builder in the Web for your Hashnode Blog ✨️](https://saviomartin.com/styler)
-- [Introducing Slickr - The most powerful Cover Image generator for your Hashnode blog ✨️](https://saviomartin.com/introducing-slickr-the-most-powerful-cover-image-generator-for-your-hashnode-blog)
-- [Introducing Code House - A whole new world of 300+ Developer Cheatsheets 👨‍💻](https://saviomartin.com/introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets)
-- [Create a Search Filter in React from Scratch 🔎](https://saviomartin.com/create-a-search-filter-in-react-from-scratch)
-<!-- BLOG-POST-LIST:END -->
-
-## 👨‍💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   11 hrs 19 mins  ███████████████████████▒░   92.82 % 
-CSS          48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-```
-<!--END_SECTION:waka-->
+![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=black)
+![](https://img.shields.io/badge/Laravel-E74C43?style=for-the-badge&logo=laravel&logoColor=black)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ## My Github Status 🦸
 
-![](https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=Cconkers&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+[![Ruben stats](https://github-readme-stats.vercel.app/api/wakatime?username=rubenspv&show_icons=true&theme=gruvbox)](https://github.com/cconkers/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cconkers&layout=compact&show_icons=true&theme=radical)](https://github.com/cconkers/github-readme-stats)
 
-## My Github Activity ⚡
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/GuilletDominguez/donbosco-firmasimply-grupo5/pull/15) in [GuilletDominguez/donbosco-firmasimply-grupo5](https://github.com/GuilletDominguez/donbosco-firmasimply-grupo5)
-2. 🎉 Merged PR [#10](https://github.com/saviomartin/codehouse/pull/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-3. 🗣 Commented on [#10](https://github.com/saviomartin/codehouse/issues/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-4. 🗣 Commented on [#10](https://github.com/saviomartin/codehouse/issues/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-5. 🎉 Merged PR [#4](https://github.com/saviomartin/slickr/pull/4) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
-<!--END_SECTION:activity-->
-
-## My Trending Repos 💻
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=slickr&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/gradientking)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=codehouse&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/loficlub)
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=cconkers'></p>
