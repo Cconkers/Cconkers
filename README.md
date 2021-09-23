@@ -1,7 +1,7 @@
 # Hello, My name is Rubén!👋🏻👦🏻🤙🏻
 
 ![](https://raw.githubusercontent.com/Cconkers/Cconkers/main/My%20Post.png)
-
+![](https://raw.githubusercontent.com/Cconkers/Cconkers/main/parrot.gif)
 My passion for technology follow me since I was child, this together with my inner curiosity made me run into the world of web development at the most appropriate time, made on me great interest in the capacity for creation, flexibility and innovation that the sector possesses. And one of the guilds at the forefront of the technology sector, generating in me a great vocation. 
 <br><br>
 Open to all PMs on [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-191a5913a/)
