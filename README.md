@@ -1,5 +1,5 @@
 # Hello, My name is Rubén!👋🏻👦🏻🤙🏻
-[![](https://img.youtube.com/vi/OiwexsAumes/0.jpg)](https://youtu.be/OiwexsAumes)
+
 
 <br><br>
 My passion for technology follow me since I was child, this together with my inner curiosity made me run into the world of web development at the most appropriate time, made on me great interest in the capacity for creation, flexibility and innovation that the sector possesses. And one of the guilds at the forefront of the technology sector, generating in me a great vocation. 
@@ -39,6 +39,8 @@ Open to all PMs on [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-19
 [![Ruben stats](https://github-readme-stats.vercel.app/api/wakatime?username=rubenspv&show_icons=true&theme=gruvbox)](https://github.com/cconkers/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cconkers&layout=compact&show_icons=true&theme=radical)](https://github.com/cconkers/github-readme-stats)
+
+<figure><embed src="https://wakatime.com/share/@rubenspv/6b6c3830-9698-44a0-a82e-cefcf9d520df.svg"></embed></figure>
 
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=cconkers'></p>
