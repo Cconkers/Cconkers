@@ -40,7 +40,7 @@ Open to all PMs on [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-19
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cconkers&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ruben's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rubenspv)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
