@@ -32,6 +32,8 @@ Open to all PMs on [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-19
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=black)
 ![](https://img.shields.io/badge/Laravel-E74C43?style=for-the-badge&logo=laravel&logoColor=black)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/Typescript-35495E?style=for-the-badge&logo=typescript.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/Angular-35495E?style=for-the-badge&logo=angular.js&logoColor=4FC08D)
 
 ## My Github Status 🦸
 
