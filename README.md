@@ -38,9 +38,8 @@ Open to all PMs on [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-19
 ## My Github Status 🦸
 
 ![](https://github-readme-stats.vercel.app/api?username=Cconkers&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-![Ruben stats](https://github-readme-stats.vercel.app/api/wakatime?username=rubenspv&show_icons=true&theme=gruvbox)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cconkers&layout=compact&show_icons=true&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=rubenspv&layout=compact&show_icons=true&theme=radical)
 
 
 
