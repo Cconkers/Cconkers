@@ -32,17 +32,14 @@ Open to all PMs on [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-19
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=black)
 ![](https://img.shields.io/badge/Laravel-E74C43?style=for-the-badge&logo=laravel&logoColor=black)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/Typescript-35495E?style=for-the-badge&logo=typescript.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/Angular-35495E?style=for-the-badge&logo=angular.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## My Github Status 🦸
 
 ![](https://github-readme-stats.vercel.app/api?username=Cconkers&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=rubenspv&layout=compact&show_icons=true&theme=radical)
-
-
-
 
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=cconkers'></p>
