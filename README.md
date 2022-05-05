@@ -7,7 +7,7 @@ My passion for technology follow me since I was child, this together with my inn
 Open to all PMs on [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-191a5913a/)
 
 - 🛠 I’m currently working on my personal projects with the best person I could, my teacher [Aberkanimed](https://github.com/aberkanimed)
-- 🌱 I’m currently learning Full Stack engineering
+- 🌱 I’m currently learning Angular Front End.
 - 🤜🏻🤛🏻 I’m looking to collaborate and keep learning on Full stack web development
 - 💬 Ask me about Frontend Technologies
 - 📫 How to reach me: [rubenpv011992@gmail.com](mailto:rubenpv011992@gmail.com) & [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-191a5913a/)
