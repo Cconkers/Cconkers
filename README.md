@@ -40,6 +40,7 @@ Open to all PMs on [LinkedIn](https://www.linkedin.com/in/ruben-palomo-viedma-19
 ![](https://github-readme-stats.vercel.app/api?username=Cconkers&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=rubenspv&layout=compact&show_icons=true&theme=radical)
-
+<br>
+[![wakatime](https://wakatime.com/badge/user/e222297c-917a-4c0c-9d05-ad9a0b33d22d.svg)](https://wakatime.com/@e222297c-917a-4c0c-9d05-ad9a0b33d22d)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=cconkers'></p>
